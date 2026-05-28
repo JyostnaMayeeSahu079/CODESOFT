@@ -56,12 +56,9 @@ A full-stack AI chatbot application developed using **React.js**, **Node.js**, a
 The main objective of this project is to understand full-stack development and chatbot implementation using rule-based logic with frontend-backend communication.
 
 
-📸 Screenshots
-
-<img width="500" height="500" alt="Screenshot 2026-05-27 121051" src="https://github.com/user-attachments/assets/645b73c0-c8b2-4d0a-8bb0-0f2e529d77ae" />
+<img width="500" height="500" alt="Screenshot 2026-05-27 121051" src="https://github.com/user-attachments/assets/6a12d5ab-7158-43c6-ad83-fade439b7e03" />
 
 
-
-<img width="500" height="500" alt="Screenshot 2026-05-27 121108" src="https://github.com/user-attachments/assets/5247a83b-98c7-49fa-914c-3262ab79e7cc" />
+<img width="500" height="500" alt="Screenshot 2026-05-27 121108" src="https://github.com/user-attachments/assets/5754da66-a40c-4dd5-a8e6-40724372c7b7" />
 
 
